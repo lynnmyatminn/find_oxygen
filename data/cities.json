@@ -1,0 +1,19 @@
+{
+    "cities": [
+        {
+            "id": "1",
+            "name": "yangon",
+            "img__url": "https://www.apur.org/sites/default/files/images/publication/a-la-une/yangon_zoning_plan_0.jpg"
+        },
+        {
+            "id": "2",
+            "name": "mandalay",
+            "img__url": "https://i.ytimg.com/vi/urVNSX5ildU/maxresdefault.jpg"
+        },
+        {
+            "id": "3",
+            "name": "bago",
+            "img__url": "https://ik.imagekit.io/officehub/tr:w-960,c-maintain_ratio,f-auto,q-85/https://dr3h7ptpe31k5.cloudfront.net/Assets/images/1792/Serviced-Office-Burma-Yangon-503/-504-Corner-of-Pyay-Road-and-Hledan-Road-Kamayut-Township-642148.jpg"
+        }
+    ]
+}
